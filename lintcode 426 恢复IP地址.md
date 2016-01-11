@@ -5,7 +5,8 @@ layout: post
 category : lintcode
 tagline: "lintcode"
 tags : [lintcode]
-excerpt: 。
+excerpt: 
+
 ---
 {% include JB/setup %}
 

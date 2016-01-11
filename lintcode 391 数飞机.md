@@ -3,7 +3,8 @@ layout: post
 category : lintcode
 tagline: "lintcode"
 tags : [lintcode]
-excerpt: 。
+excerpt: 
+
 ---
 **解题报告**
 

@@ -9,15 +9,15 @@ excerpt: 。
 ---
 {% include JB/setup %}
 
-** 题目 **
+##题目
 
 题目链接：http://www.lintcode.com/zh-cn/problem/restore-ip-addresses/
 
-** 解题报告 **
+##解题报告
 
 
 
-** Source Code / C++ **
+##Source Code / C++ 
 
 ```C++
 
