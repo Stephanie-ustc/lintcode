@@ -11,7 +11,7 @@ excerpt: 。
 
 ##题目
 
-题目链接：http://www.lintcode.com/zh-cn/problem/restore-ip-addresses/
+题目链接：http://www.lintcode.com/zh-cn/problem/implement-trie/
 
 ##解题报告
 
