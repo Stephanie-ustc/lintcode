@@ -1,3 +1,4 @@
+#lintcode 391 数飞机
 ---
 layout: post
 category : lintcode
